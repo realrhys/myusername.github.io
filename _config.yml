@@ -13,13 +13,11 @@ url: http://example.org
 baseurl: "/"
 data_dir: "./_data"
 plugins:
-  - jekyll-polyglot
-
-# not used by plugin but by liquid template
-languages:          ['en', 'fr', 'tr']
-# default_lang: "en"
-# active_lang: "en"
-
+- jekyll-polyglot
+languages:
+- en
+- fr
+- tr
 parallel_localization: true
 language_data: data.lang.%%
 language_includes_dir: _i18n
