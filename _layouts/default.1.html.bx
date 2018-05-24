@@ -1,8 +1,8 @@
 ---
+permalink: "/"
 layout: default
 language: en
 subset: footer
-permalink: /
 navigation: false
 ---
 
