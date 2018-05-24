@@ -1,6 +1,7 @@
 ---
 layout: skeleton
 ---
+
 	<!-- Header 
 	<div id="header">
 		 {% include nav.html %} 
