@@ -11,7 +11,7 @@ plugins:
   - jekyll-polyglot
 
 # not used by plugin but by liquid template
-languages:          ['en', 'fr']
+languages:          ['en', 'fr', 'tr']
 # default_lang: "en"
 # active_lang: "en"
 parallel_localization: true
