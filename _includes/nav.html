@@ -1,12 +1,22 @@
 <div id="nav-wrapper">
 	<!-- Nav -->
+
+	{% assign data = site.data.lang[site.active_lang] %}
+
 	<nav id="nav">
 		<ul>
 			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="/index.html">{{site.data.lang[site.active_lang].nav.home}}</a></li>
-			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="/blog">{{site.data.lang[site.active_lang].nav.announcements}}</a></li>
-			<li {% if current[1] == 'legal/privacy-policy.html' %}class='current'{% endif %}><a href="/legal/privacy-policy.html">{{site.data.lang[site.active_lang].nav.privacy_policy}}</a></li>
-			<li {% if current[1] == 'legal/contact.html' %}class='current'{% endif %}><a href="/legal/contact.html">{{site.data.lang[site.active_lang].nav.contact}}</a></li>	
+			<li {% if current[1] == 'index.html' %}class='current'{% endif %}>
+				<a href="{% if site.active_lang == site.default_lang %} {{data.nav.home.url}} {% else %} /{{ site.active_lang }}{{data.nav.home.url}} {% endif %}">{{data.nav.home.name}}</a>
+			</li>
+			<li {% if current[1] == 'blog' %}class='current'{% endif %}>
+				<a href="{% if site.active_lang == site.default_lang %} {{data.nav.announcements.url}} {% else %} /{{ site.active_lang }}{{data.nav.announcements.url}} {% endif %}">{{data.nav.announcements.name}}</a></li>
+			<li {% if current[1] == 'legal/privacy-policy.html' %}class='current'{% endif %}>
+				<a href="{% if site.active_lang == site.default_lang %} {{data.nav.privacy_policy.url}} {% else %} /{{ site.active_lang }}{{data.nav.privacy_policy.url}} {% endif %}">{{data.nav.privacy_policy.name}}</a>
+			</li>
+			<li {% if current[1] == 'legal/contact.html' %}class='current'{% endif %}>
+				<a href="{% if site.active_lang == site.default_lang %} {{data.nav.contact.url}} {% else %} /{{ site.active_lang }}{{data.nav.contact.url}} {% endif %}">{{data.nav.contact.name}}</a>
+			</li>	
 		</ul>
 	</nav>
 </div>

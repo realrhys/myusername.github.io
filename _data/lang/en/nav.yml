@@ -1,4 +1,12 @@
-home: Home
-announcements: Announcements
-privacy_policy: Privacy Policy
-contact: Contact
+home: 
+  name: Home
+  url: /index.html
+announcements: 
+  name: Announcements
+  url: /blog
+privacy_policy: 
+  name: Privacy Policy
+  url: /legal/privacy-policy.html
+contact: 
+  name: Contact
+  url: /legal/contact.html
