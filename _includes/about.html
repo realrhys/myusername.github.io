@@ -2,15 +2,14 @@
 <section class="bg-primary" id="about">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto text-center">
+        <div class="col-lg-10 mx-auto text-center">
           <h1 class="section-heading text-grey">Volentix</h1>
           <p class="text-grey mb-4">{{home.description}}</p>
-          <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/7NEAv3ihxJc" allowfullscreen>
-          </iframe>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7NEAv3ihxJc" allowfullscreen></iframe>
+          </div>
           <br/>
           <br/>
-
           {% if site.active_lang == site.default_lang %}
           <div class="ctct-inline-form" data-form-id="71c8f1ee-2746-4e6f-97b9-9232b3e98969"></div>
           {% else %}
@@ -22,3 +21,5 @@
       </div>
     </div>
   </section>
+
+  
