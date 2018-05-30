@@ -94,10 +94,10 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
           </li>
-          <li>
+          <li class="nav-item" style="padding: 5px;">
             
             <a href="/tr/index.html">
-              <img src="assets/img/turkey.png" alt="Turkish" height="16px"/>
+              <img src="assets/img/turkey.png" alt="Turkish" height="16px" style="border-radius: 15%;"/>
             </a>
             
           </li>
@@ -126,8 +126,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto text-center">
-          <h1 class="section-heading text-grey">Volentix</h1>
-          <p class="text-grey mb-4">ENVISIONED TO BE A COMMUNITY POWERED DECENTRALIZED AUTONOMOUS ORGANIZATION (DAO).</p>
+          <p class="text-grey mb-4">Envisioned to be a community powered decentralized autonomous organization (DAO)</p>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7NEAv3ihxJc" allowfullscreen></iframe>
           </div>
@@ -217,7 +216,7 @@
                 <p class="text-grey text-center">VTX is the native currency of the Volentix DAO. It is a cryptographic deflationary token that provides access to staking and membership.</p>
               </div>
               
-              <div class="col-lg-6 mx-auto" style="border-left: 3px solid pink; height: 140px;">
+              <div class="col-lg-6 mx-auto" style="border-left: 3px solid #a64d79; height: 140px;">
                   
                 <p class="text-grey">VTX may be staked to:</p>
                 <ul class="text-grey">
@@ -235,18 +234,33 @@
 
     
 <section id="contact" class="text-white text-center" style="background-color: #232C3B;" >
-    
-    <h2>Contact Us</h2>
-    <ul class="contact">
-      <li><a href="https://github.com/Volentix" ><i class="fa fa-github" style="color: white"></i></a></li>
-      <li><a href="https://twitter.com/Volentix"><i class="fa fa-twitter" style="color: white"></i></a></li>
-      <li><a href="https://t.me/volentix"><i class="fa fa-telegram" style="color: white"></i></a></li>
-      <li><a href="https://medium.com/@marketing_33515"><i class="fa fa-medium" style="color: white"></i></a></li>
-      <li><a href="mailto:info@volentixlabs.com"><i class="fa fa-envelope" style="color: white"></i></a></li>
-    </ul>
+  <div class="row">
+    <div class="col-lg-5 col-md-5 text-center" >
+      <ul class="contact">
+        <li><a href="https://github.com/Volentix" ><i class="fa fa-github" style="color: grey; font-size:35px;"></i></a></li>
+        <li><a href="https://t.me/volentix"><i class="fa fa-telegram" style="color: grey; font-size: 35px;"></i></a></li>
+        <li><a href="https://twitter.com/Volentix"><i class="fa fa-twitter" style="color: grey; font-size: 35px;"></i></a></li>
+        <li><a href="https://medium.com/@marketing_33515"><i class="fa fa-medium" style="color: grey; font-size: 35px;"></i></a></li>
+      </ul>
+    </div>
+    <div class="col-lg-2 col-md-2 text-center" >
+      <img src="assets/img/vlabs_logo.png" height="85px;" alt=""/>
+    </div>
+    <div class="col-lg-5 col-md-5 text-center" >
         
-    <br/>
-    &copy; 2018 Volentix Labs Inc.
+      <ul class="contact" >
+        <li>
+          <h6 style="color: grey; font-size: 15px;">
+            <a href="mailto:info@volentixlabs.com" style="color: grey;">info@volentix</a><span> | </span>
+            
+            <a href=" /privacy.html " style="color: grey;">Privacy Policy</a><span> | </span>
+            <a href=" /terms.html " style="color: grey;">Terms &amp; Conditions</a>
+          </h6>
+        </li>
+      </ul>
+      <h6 style="color: grey; font-size: 10px;" class="text-right">Copyright &copy; 2018 Volentix Labs Inc. | All rights reserved.</h6>
+    </div>
+  </div>
 </section> 
         <script src="assets/vendor/jquery/jquery.min.js"></script>
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -284,7 +298,7 @@
           
           // If the count down is over, write some text 
           if (distance < 0) {
-              clearInterval(x);
+              clearInterval(x); 
               document.getElementById("demo").innerHTML = "EXPIRED";
           }
       }, 1000);
