@@ -16,7 +16,6 @@ plugins:
 - jekyll-polyglot
 languages:
 - en
-- fr
 - tr
 parallel_localization: true
 language_data: data.lang.%%
