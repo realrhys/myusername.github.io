@@ -7,3 +7,8 @@ vdex_desc: VDex, kullanıcılarının mevduat ve kişisel bilgilerini saklamayan
 vespucci_desc: Vespucci, bir “Otomatik Analiz Motoru” olarak çalışacak ve takas edilebilir para birimleri hakkındaki tüm bilgileri ve göstergeleri inceleyerek,  gelişmiş bir veri matrisine dayalı risk değerlendirme puanları oluşturacak. Tüm bu veriler, kripto para birimlerinin şeffaf bir şekilde analiz edilmesini gerektiren herhangi bir alanda widget’lar kullanılarak görüntülenebilecek.
 verto_desc: Verto, diğer destekçilerimiz tarafından sunulan özelliklerin entegre edildiği, yeni nesil ve çok sayıda para birimlerini destekleyen bir cüzdan olacak. Takas yapma, biriktirme, imza doğrulama ve güvenli depolama özelliklerini sunacak. Kişisel anahtarlar bu cüzdanda saklanacak ve sadece sahipleri tarafından erişilebilir olacak.
 contact_us: Bizimle Iletişime Geçin
+vtx_desc: VTX, Volentix DAO’nun yerel para birimi olacak. VTX, üyelik özelliklerine erişmek için kullanılacak kriptografik bir deflasyonel jeton olma görevini üstlenecek.
+vtx_desc2: VTX jetonu, şu amaçlar için biriktirebilecek.
+vtx_desc2_li1: DAO’ya teklifler göndermek
+vtx_desc2_li2: Gönderilen teklifler için oy kullanmak
+vtx_desc2_li3: DAO yönetim sürecine katılım göstermek

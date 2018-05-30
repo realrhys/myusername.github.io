@@ -9,9 +9,28 @@ body {
 }
 
 hr {
-  max-width: 50px;
   border-width: 3px;
-  border-color: #FF69B4;
+  
+}
+
+#hrvdex {
+  border-color: green;
+}
+
+#hrverto {
+  border-color: aqua;
+}
+
+#hrvespucci {
+  border-color: yellow;
+}
+
+#hrvenue {
+  border-color: purple;
+}
+
+#hrvtx {
+  border-color: pink;
 }
 
 hr.light {
@@ -28,6 +47,8 @@ a {
 a:hover {
   color: #f05f40;
 }
+
+
 
 h1,
 h2,
