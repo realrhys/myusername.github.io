@@ -73,6 +73,8 @@ PRs accepted.
 
 Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
+The fractal image is from [here](https://michaelheasell.com/blog/2014/10/14/functional-fractals/).
+
 ## License
 
 MIT © 2018 VolentixLabs
