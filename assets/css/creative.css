@@ -13,25 +13,8 @@ hr {
   
 }
 
-#hrvdex {
-  border-color: green;
-}
-
-#hrverto {
-  border-color: aqua;
-}
-
-#hrvespucci {
-  border-color: yellow;
-}
-
-#hrvenue {
-  border-color: purple;
-}
-
-#hrvtx {
-  border-color: pink;
-  width: 75%;
+#hrteam {
+  border-color: #a64d79
 }
 
 hr.light {
@@ -291,6 +274,11 @@ header.masthead p {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
+}
+
+.headshot {
+  border-radius: 50%;
+  height: 150px;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
