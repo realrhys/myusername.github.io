@@ -13,25 +13,8 @@ hr {
   
 }
 
-#hrvdex {
-  border-color: green;
-}
-
-#hrverto {
-  border-color: aqua;
-}
-
-#hrvespucci {
-  border-color: yellow;
-}
-
-#hrvenue {
-  border-color: purple;
-}
-
-#hrvtx {
-  border-color: pink;
-  width: 75%;
+#hrteam {
+  border-color: #a64d79
 }
 
 hr.light {
@@ -49,7 +32,10 @@ a:hover {
   color: #a64d79;
 }
 
-
+.resize {
+  max-width:10%;
+  max-height:50%;
+}
 
 h1,
 h2,
@@ -61,7 +47,7 @@ h6 {
 }
 
 .headerimage {
-  width: 100%;
+  width: 80%;
   padding: 20px;
 }
 
@@ -227,6 +213,17 @@ header.masthead {
   background-size: cover;
 }
 
+header.bitcoin {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("../img/bitcoin.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -288,6 +285,11 @@ header.masthead p {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
+}
+
+.headshot {
+  border-radius: 50%;
+  height: 150px;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
