@@ -5,7 +5,7 @@ permalink: /privacy.html
 lang: en
 ---
 
-This Privacy Policy is designed to assist you with understanding how Volentix ("volentix", "we", "us" or "our") collect, use and disclose the information you provide us when accessing or using the website, volentix.io or volentix.com.
+This Privacy Policy is designed to assist you with understanding how Pythagoras Systems ("pythagoras", "we", "us" or "our") collect, use and disclose the information you provide us when accessing or using the website, pythagoras.systems.
 
 ### Changes to our Privacy Policy
 
@@ -51,7 +51,7 @@ We will only use the Information for purposes of:
   * matching your Information with job vacancies to assist us in finding a position that is most suitable for you if you have contacted us about recruitment;
   * monitoring and analyzing trends, usage and activities in connection with our Website;
   * detecting, investigating and preventing fraudulent transactions or unauthorized or illegal activities;
-  * protecting the rights and property of the Volentix Parties (as defined below) and others;
+  * protecting the rights and property of the Pythagoras Systems Parties (as defined below) and others;
   * linking, connecting or combining Information we collect from or about you with other Information; and
   * carrying out any other purpose or reason for which the Information was collected.
 
@@ -64,7 +64,7 @@ We will only share Information about you in the following ways:
   * certain information you may choose to share may be displayed publicly, such as your username and any content you post when you use interactive areas of our Website like our online forums;
   * in connection with a merger or sale of our company assets, or if we do a financing or are involved in an acquisition or any other situation where Information may be disclosed or transferred as one of our business assets;
   * in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
-  * if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of any Volentix Party or others; and
+  * if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of any Pythagoras Systems Party or others; and
   * with third parties where aggregate Information is disclosed which cannot be reasonably be used to identify you.
 
 ### Social Sharing Features
@@ -73,7 +73,7 @@ Our Website may offer social sharing features, links to social media and other i
 
 ### Protection of Personal Information
 
-We take reasonable steps to protect the security of the information communicated through our Website. However, no computer security system is entirely foolproof and the Internet is not a secure method of transmitting information. As a result, we do not assume any responsibility for the data you submit to or receive from us through the Internet or for any unauthorised access or use of that information and we cannot and do not guarantee that information communicated by you to us or sent to you by us will be received or that it will not be altered before or after its transmission to us. You agree to not hold us and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (collectively, the “Volentix Parties”) liable for any loss or damage of any sort incurred as a result of any misappropriation, interception, modification, deletion, destruction or use of information provided through our Website.
+We take reasonable steps to protect the security of the information communicated through our Website. However, no computer security system is entirely foolproof and the Internet is not a secure method of transmitting information. As a result, we do not assume any responsibility for the data you submit to or receive from us through the Internet or for any unauthorised access or use of that information and we cannot and do not guarantee that information communicated by you to us or sent to you by us will be received or that it will not be altered before or after its transmission to us. You agree to not hold us and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (collectively, the “Pythagoras Systems Parties”) liable for any loss or damage of any sort incurred as a result of any misappropriation, interception, modification, deletion, destruction or use of information provided through our Website.
 
 Most web browsers are set to accept cookies as a default. You may wish to opt out by turning off cookies (please refer to the help menu on your browser); however, switching off cookies may restrict your use of our Website.
 
@@ -85,6 +85,6 @@ This Website may contain links to other third party websites that may collect pe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at info@volentix.com.
+If you have any questions about this Privacy Policy, please contact us at alexis@pythagoras.systems.
 
-Dated: May 30, 2018
+Dated: June 18, 2018

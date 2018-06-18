@@ -1,5 +1,9 @@
 about: 
   name: About
+core:
+  name: Core Values
+applications:
+  name: Applications
 team: 
   name: Team
 contact: 
