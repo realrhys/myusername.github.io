@@ -136,7 +136,7 @@ If you do not comply with these terms, and we don’t take action right away, th
 
 If it turns out that a particular term is not enforceable, the term will be modified such that it is enforceable and this will not affect any other terms contained herein.
 
-If you have any questions regarding these terms, please contact us at alexis@pythagoras.systems.
+If you have any questions regarding these terms, please contact us at info@pythagoras.systems.
 
 Copyright © 2018 Pythagoras Systems Inc. All rights reserved.
 

@@ -85,6 +85,6 @@ This Website may contain links to other third party websites that may collect pe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at alexis@pythagoras.systems.
+If you have any questions about this Privacy Policy, please contact us at info@pythagoras.systems.
 
 Dated: June 18, 2018
