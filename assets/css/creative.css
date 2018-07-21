@@ -50,6 +50,11 @@ h6 {
   background-color: #EAF2F8;
 }
 
+.teambox {
+  border-style: solid;
+  border-width: thin;
+}
+
 .headerimage {
   width: 80%;
   padding: 20px;
