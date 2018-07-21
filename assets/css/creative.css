@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Raleway','Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway','Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
@@ -13,25 +13,8 @@ hr {
   
 }
 
-#hrvdex {
-  border-color: green;
-}
-
-#hrverto {
-  border-color: aqua;
-}
-
-#hrvespucci {
-  border-color: yellow;
-}
-
-#hrvenue {
-  border-color: purple;
-}
-
-#hrvtx {
-  border-color: pink;
-  width: 75%;
+#hrteam {
+  border-color: #a64d79
 }
 
 hr.light {
@@ -60,20 +43,32 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.textdiv{ 
+  background-color: #EAF2F8;
 }
 
 .headerimage {
-  width: 50%;
+  width: 80%;
   padding: 20px;
 }
 
 .bg-primary {
-  background-color: #f2f2f2 !important;
+  background-color: #1B2631 !important;
+}
+
+.bg-terms-privacy {
+  background-color: #f4f4f4 !important;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #273746 !important;
+}
+
+.text-light {
+  color: #f4f4f4;
 }
 
 .text-grey {
@@ -83,6 +78,20 @@ h6 {
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
+
+.typed {
+  font-size: 2em;
+}
+
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+  background-color:#1B2631;
+  color:#f3f6db;
+  border: 0 none;
+}
+
 
 ul.contact
 	{
@@ -136,7 +145,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
-  font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -146,7 +155,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #a64d79;
-  font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -222,7 +231,18 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.png");
+  background-image: url("../img/header.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header.bitcoin {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("../img/bitcoin.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -293,6 +313,11 @@ header.masthead p {
   transition: all 0.2s;
 }
 
+.headshot {
+  border-radius: 50%;
+  height: 150px;
+}
+
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
   position: absolute;
   top: 50%;
@@ -304,7 +329,7 @@ header.masthead p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   padding: 0 15px;
-  font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -343,7 +368,7 @@ header.masthead p {
   text-transform: uppercase;
   border: none;
   border-radius: 300px;
-  font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat',  'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .btn-xl {

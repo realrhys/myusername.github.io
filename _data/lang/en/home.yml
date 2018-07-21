@@ -1,15 +1,19 @@
-title: Welcome to Volentix
+title: Volentix Labs
 description: We are a blockchain research and development lab focused on engineering Dapps.
-pillars: The Pillars Of Volentix
+team: Our Team
+about_us: About Us
+about: About Us
 email: Email
-button_text: Sign Up
-venue_desc: With Venue, a bounty distribution platform, Volentix development network members will post bounties and campaigns to Venue for work needed—for example, fixing bugs, creating content, or promoting Volentix—and anyone may claim a bounty in exchange for their efforts. Venue provides real time metrics on VTX rewards earned by participants and incentivizes the adoption of VTX.
+core_values: Core Values
+applications: Applications
+vespucci: Vespucci
 vdex_desc: VDex will be an extensible, customizable, decentralized cryptocurrency exchange platform which does not possess users’ information or assets. VDex will use several protocols to facilitate cross-blockchain exchange. Users of the VDex will always maintain custody of their funds in their own virtual wallets.
-vespucci_desc: Vespucci will be an Automated Analytical Engine which researches all available information and indicators related to tradeable digital assets and provides a risk assessment score based on a sophisticated matrix of data. These metrics are visualized as widgets that can be embedded in any site which desires transparent analysis of cryptocurrencies.
-verto_desc: Verto will be a next-generation, multi-currency wallet which integrates features from other Volentix pillars. Features functions for trading, staking, signature verification, and secure storage. Private keys are maintained in this wallet and are accessible only by its owner.
+vdex_whitepaper: Read the whitepaper.
+venue: Venue
+venue_desc: With Venue, a bounty distribution platform, Volentix development network members will post bounties and campaigns to Venue for work needed—for example, fixing bugs, creating content, or promoting Volentix—and anyone may claim a bounty in exchange for their efforts. Venue provides real time metrics on VTX rewards earned by participants and incentivizes the adoption of VTX.
+done: Done!
+done_desc: Done! provides a platform for workers and employers in the decentralized era. Done! maximizes efficency, minimizes cost, and ensures the right fit is found.
+vision: VLabs, founded in 2017 and based out of Montreal, Quebec, Canada, is operating in the decentralized ledger technology space as an industry innovator, specifically on building DApps and training the next generation of DApp developers. VLabs, along with other members of the coalition around the world, is leading the global development initiative with the Volentix Pillars (VDex; Verto; Vespucci; Venue) and the Volentix DAO.
+mission: A decentralized free market powered and secured by Blockchain technology.
+button_text: Sign Up
 contact_us: Contact
-vtx_desc: VTX is the native currency of the Volentix DAO. It is a cryptographic deflationary token that provides access to staking and membership.
-vtx_desc2: VTX may be staked to
-vtx_desc2_li1: Submit proposals to the DAO
-vtx_desc2_li2: Vote on proposals submitted to the Network
-vtx_desc2_li3: Participate in the governance of the DAO

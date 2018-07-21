@@ -1,6 +1,10 @@
 about: 
   name: About
-pillars: 
-  name: Pillars
+core:
+  name: Core Values
+applications:
+  name: Applications
+team: 
+  name: Team
 contact: 
   name: Contact
