@@ -1,6 +1,6 @@
 title: Volentix Labs
 description: Building software for the Volentix community.
-team: Our Team
+team: Core Team
 about_us: About Us
 about: About Us
 email: Email
@@ -8,7 +8,7 @@ core_values: Core Values
 applications: Applications
 vespucci: Vespucci
 vdex_desc: VDex will be an extensible, customizable, decentralized cryptocurrency exchange platform which does not possess users’ information or assets. VDex will use several protocols to facilitate cross-blockchain exchange. Users of the VDex will always maintain custody of their funds in their own virtual wallets.
-vdex_whitepaper: Read the whitepaper.
+vdex_whitepaper: Read the whitepaper!
 venue: Venue
 venue_desc: With Venue, a bounty distribution platform, Volentix development network members will post bounties and campaigns to Venue for work needed—for example, fixing bugs, creating content, or promoting Volentix—and anyone may claim a bounty in exchange for their efforts. Venue provides real time metrics on VTX rewards earned by participants and incentivizes the adoption of VTX.
 done: Done!
@@ -18,3 +18,4 @@ mission: A decentralized free market powered and secured by Blockchain technolog
 button_text: Sign Up
 contact_us: Contact
 verto_desc: Verto will be a next-generation, multi-currency wallet which integrates features from other Volentix pillars. Features functions for trading, staking, signature verification, and secure storage. Private keys are maintained in this wallet and are accessible only by its owner.
+join_venue: Join Venue!
