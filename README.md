@@ -1,4 +1,4 @@
-# Volentix Website
+# Volentix Labs Website
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
@@ -17,7 +17,7 @@
 
 ## Welcome
 
-> Website for Volentix.
+> Website for Volentix Labs.
 
 This repository will house the artifacts for our public website. 
 
@@ -26,8 +26,6 @@ This repository will house the artifacts for our public website.
 This project houses the html, css, and javascript files for the website.
 
 This project uses the static website generator [Jekyll](https://jekyllrb.com/).
-
-Additionally, we used the linear theme from [these guys](http://themes.jekyllrc.org/linear/).
 
 Also, we are using [this for i18n](https://github.com/untra/polyglot)
 
