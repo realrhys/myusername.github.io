@@ -1,5 +1,5 @@
 title: Volentix Labs
-description: We are a blockchain research and development lab focused on engineering Dapps.
+description: Building software for the Volentix community.
 team: Our Team
 about_us: About Us
 about: About Us
@@ -17,3 +17,4 @@ vision: VLabs, founded in 2017 and based out of Montreal, Quebec, Canada, is ope
 mission: A decentralized free market powered and secured by Blockchain technology.
 button_text: Sign Up
 contact_us: Contact
+verto_desc: Verto will be a next-generation, multi-currency wallet which integrates features from other Volentix pillars. Features functions for trading, staking, signature verification, and secure storage. Private keys are maintained in this wallet and are accessible only by its owner.
